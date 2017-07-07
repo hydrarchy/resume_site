@@ -153,18 +153,6 @@ a:link, a:visited {
      justify-content: space-between
 }
 
-.service-1 {
-     flex-basis: 30%;
-}
-
-.service-2 {
-     flex-basis: 30%;
-}
-
-.service-3 {
-     flex-basis: 30%;
-}
-
 .services-side-art {
      flex: 1; 
 }
